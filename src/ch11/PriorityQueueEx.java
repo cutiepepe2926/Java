@@ -10,7 +10,7 @@ public class PriorityQueueEx {
         pq.offer(5);
         pq.offer(2);
         pq.offer(4);
-        System.out.println(pq); //pq의 내부 배열을 출력
+        System.out.println(pq); //pq의 내부 배열을 출력d
 
         Object obj = null;
 
